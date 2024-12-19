@@ -3,29 +3,31 @@ layout: default
 title: "Frank Y. Rosas"
 ---
 
-<section class="hero">
-  <div class="container hero-content">
-    <h1>Investment & Quantitative Finance Professional</h1>
-    <p>Combining data-driven insights and quantitative skills to enhance investment strategies, drive growth, and solve complex financial challenges.</p>
-    <a href="/experience/" class="btn">Learn More</a>
-  </div>
+<section>
+  <h1>Quantitative Finance & Investment Expertise</h1>
+  <p>I specialize in leveraging data, advanced analytics, and quantitative models to enhance investment strategies, optimize portfolios, and deliver meaningful insights in fast-paced financial environments.</p>
 </section>
 
-<section class="highlight">
-  <div class="container">
-    <h2>Areas of Expertise</h2>
-    <ul class="expertise-list">
-      <li>Investment Analysis & Asset Allocation</li>
-      <li>Quantitative Modeling & Machine Learning</li>
-      <li>Private Markets & Venture Capital Analytics</li>
-      <li>Risk Assessment & Portfolio Optimization</li>
-    </ul>
-  </div>
+<section>
+  <h2>Highlights</h2>
+  <ul>
+    <li><strong>Investment Analysis:</strong> Experience with private markets, endowment management, and quantitative research.</li>
+    <li><strong>Quantitative Modeling:</strong> Applying machine learning, time series analysis, and DCF modeling to solve complex problems.</li>
+    <li><strong>Data-Driven Solutions:</strong> Enhancing decision-making with Python, R, SQL, and visualization tools (Power BI, Tableau).</li>
+  </ul>
 </section>
 
-<section class="about">
-  <div class="container">
-    <h2>About</h2>
-    <p>I am dedicated to bridging the gap between analytical rigor and strategic decision-making. With a strong background in quantitative finance, I have experience in enhancing portfolio management, conducting due diligence, and implementing data-driven strategies. I am passionate about leveraging advanced analytics, machine learning, and dynamic modeling to unlock investment opportunities and drive sustainable growth.</p>
-  </div>
+<section>
+  <h2>Selected Experience</h2>
+  <p>Managed multi-billion dollar portfolios, integrated sophisticated models, and improved performance metrics for leading institutions. <a href="/experience/">Read more →</a></p>
+</section>
+
+<section>
+  <h2>Featured Projects</h2>
+  <p>Developed algorithmic trading systems, conducted long-memory time series research, and optimized pricing for exotic derivatives. <a href="/projects/">Explore projects →</a></p>
+</section>
+
+<section>
+  <h2>Get in Touch</h2>
+  <p>If you’re interested in discussing opportunities or learning more, <a href="/contact/">contact me</a>.</p>
 </section>
