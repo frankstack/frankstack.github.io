@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f8f8f8;
+  color: #333;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 1em 0;
+}
+
+.header-content {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-content h1 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 1em;
+  font-weight: bold;
+}
+
+header nav a.active, header nav a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  background: url('https://via.placeholder.com/1200x400') center center/cover no-repeat;
+  color: #fff;
+  text-align: center;
+  padding: 4em 0;
+}
+
+.hero-inner {
+  width: 90%;
+  margin: 0 auto;
+  background: rgba(0,0,0,0.5);
+  padding: 2em;
+  border-radius: 5px;
+}
+
+.intro, .content {
+  width: 90%;
+  margin: 2em auto;
+  background: #fff;
+  padding: 2em;
+  border-radius: 5px;
+}
+
+.intro h3, .content h2 {
+  margin-top: 0;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+  margin-top: 2em;
+}
+
+.viz-container {
+  margin-top: 2em;
+  text-align: center;
+}
