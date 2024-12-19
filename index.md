@@ -1,56 +1,31 @@
 ---
 layout: default
+title: "Frank Y. Rosas"
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Frank's personal homepage" />
-<link rel="stylesheet" href="assets/css/style.css" />
-<title>Frank's Site</title>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D72NVSNPJH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-D72NVSNPJH');
-</script>
-
-</head>
-<body>
-<header>
-  <div class="header-content">
-    <h1>Frank Stack</h1>
-    <nav>
-      <a href="./">Home</a>
-      <a href="about.html">About</a>
-      <a href="projects.html">Projects</a>
-      <a href="visualiza.html">Visualization</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-  </div>
-</header>
-
 <section class="hero">
-  <div class="hero-inner">
-    <h2>Welcome to My Personal Website</h2>
-    <p>I'm Frank, a data enthusiast and software engineer. Here you'll find my projects, visualizations, and more.</p>
+  <div class="container hero-content">
+    <h1>Investment & Quantitative Finance Professional</h1>
+    <p>Combining data-driven insights and quantitative skills to enhance investment strategies, drive growth, and solve complex financial challenges.</p>
+    <a href="/experience/" class="btn">Learn More</a>
   </div>
 </section>
 
-<section class="intro">
-  <h3>About This Site</h3>
-  <p>This is my corner of the internet where I share my work, interests, and experiments. Feel free to explore.</p>
+<section class="highlight">
+  <div class="container">
+    <h2>Areas of Expertise</h2>
+    <ul class="expertise-list">
+      <li>Investment Analysis & Asset Allocation</li>
+      <li>Quantitative Modeling & Machine Learning</li>
+      <li>Private Markets & Venture Capital Analytics</li>
+      <li>Risk Assessment & Portfolio Optimization</li>
+    </ul>
+  </div>
 </section>
 
-<footer>
-  <p>&copy; <span id="year"></span> Frank Stack</p>
-</footer>
-
-<script src="assets/js/script.js"></script>
-</body>
-</html>
+<section class="about">
+  <div class="container">
+    <h2>About</h2>
+    <p>I am dedicated to bridging the gap between analytical rigor and strategic decision-making. With a strong background in quantitative finance, I have experience in enhancing portfolio management, conducting due diligence, and implementing data-driven strategies. I am passionate about leveraging advanced analytics, machine learning, and dynamic modeling to unlock investment opportunities and drive sustainable growth.</p>
+  </div>
+</section>
