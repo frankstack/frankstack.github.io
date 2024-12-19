@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Frank Y. Rosas"
+title: "Frank Ygnacio Rosas"
 ---
 
 <section>
