@@ -4,30 +4,25 @@ title: "Experience"
 permalink: "/experience/"
 ---
 
-<section class="section">
-  <div class="container">
-    <h1>Experience</h1>
-    <p>Over the years, I have worked with diverse teams and organizations to provide actionable investment insights, develop quant models, and improve decision-making processes.</p>
+<h1>Experience</h1>
+<p>I have collaborated with diverse teams, from endowment offices to brokerage firms, translating complex data into actionable insights that streamline decision-making and boost returns.</p>
 
-    <div class="experience-block">
-      <h2>Investment Data & Analysis</h2>
-      <p>Leveraging Python APIs, DCF modeling, and quartile analysis to identify key drivers in private capital funds and strengthen portfolio management frameworks.</p>
-    </div>
+<section>
+  <h2>Investment Data & Analysis</h2>
+  <p>Performed due diligence on numerous private capital funds, improved performance benchmarking, and leveraged statistical modeling to identify growth drivers and mitigate risks.</p>
+</section>
 
-    <div class="experience-block">
-      <h2>Portfolio Monitoring & Risk Assessment</h2>
-      <p>Managing multi-billion dollar endowment funds, optimizing benchmarks, and applying statistical analyses to improve risk-adjusted returns.</p>
-    </div>
+<section>
+  <h2>Portfolio Monitoring & Risk Assessment</h2>
+  <p>Applied quantitative methods, regression analysis, and risk modeling to optimize portfolios and enhance accuracy in performance assessments for large-scale investments.</p>
+</section>
 
-    <div class="experience-block">
-      <h2>Teaching & Thought Leadership</h2>
-      <p>Educating future professionals in time series analysis and machine learning, with a focus on practical applications in public and private markets.</p>
-    </div>
+<section>
+  <h2>Teaching & Thought Leadership</h2>
+  <p>Instructed professionals and students in time series analysis, machine learning, and quantitative strategies, fostering a culture of data-driven decision-making.</p>
+</section>
 
-    <div class="experience-block">
-      <h2>Trading & Market Strategy</h2>
-      <p>Implementing data-driven trading strategies in equities and fixed income, achieving consistent returns and expanding client portfolios through innovative allocation tactics.</p>
-    </div>
-
-  </div>
+<section>
+  <h2>Trading & Market Strategy</h2>
+  <p>Implemented data-driven trading approaches to equities and fixed income, achieving above-benchmark returns and improving client portfolio diversification.</p>
 </section>
