@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/frankstack/frankstack.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Frank's personal homepage" />
+<link rel="stylesheet" href="assets/css/style.css" />
+<title>Frank's Site</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D72NVSNPJH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-D72NVSNPJH');
+</script>
 
-### Markdown
+</head>
+<body>
+<header>
+  <div class="header-content">
+    <h1>Frank Stack</h1>
+    <nav>
+      <a href="./">Home</a>
+      <a href="about.html">About</a>
+      <a href="projects.html">Projects</a>
+      <a href="visualiza.html">Visualization</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<section class="hero">
+  <div class="hero-inner">
+    <h2>Welcome to My Personal Website</h2>
+    <p>I'm Frank, a data enthusiast and software engineer. Here you'll find my projects, visualizations, and more.</p>
+  </div>
+</section>
 
-```markdown
-Syntax highlighted code block
+<section class="intro">
+  <h3>About This Site</h3>
+  <p>This is my corner of the internet where I share my work, interests, and experiments. Feel free to explore.</p>
+</section>
 
-# Header 1
-## Header 2
-### Header 3
+<footer>
+  <p>&copy; <span id="year"></span> Frank Stack</p>
+</footer>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frankstack/frankstack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script src="assets/js/script.js"></script>
+</body>
+</html>
